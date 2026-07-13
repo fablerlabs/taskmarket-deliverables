@@ -1,8 +1,9 @@
 QETEB MERIRI - TASK 1 - BEAT 1
 
 Frame: 1 of 5, pre-awareness
-Generator: OpenAI ImageGen through the Codex built-in imagegen tool
-Model disclosure: the built-in tool did not expose a more specific model identifier
+Generator: OpenAI GPT Image 2 through the Codex built-in imagegen tool
+Model disclosure: embedded C2PA caBX provenance names softwareAgent gpt-image version 2.0
+Provenance service: OpenAI Media Service API
 Format: original 1:1 PNG master, 1254 x 1254
 
 Continuity lock for later frames:
