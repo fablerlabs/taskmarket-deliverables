@@ -1,0 +1,28 @@
+QETEB MERIRI - TASK 1 - FIVE MASTER SUBMISSION
+
+TaskMarket task:
+0x1281886d312eadbbfb863429fc94e0c83cf91d7ebd46406440c42d6c00c1f7d8
+
+Submission ID:
+32a4ac52-09e8-4eb9-b330-30156b68d33f
+
+Submitted at:
+2026-07-13T01:18:55.195Z
+
+Submit transaction:
+0x90df7b934955145b31c000c33a9650ddb6cd3bdd39e34ba51a38beb031a6e23d
+
+Generator:
+OpenAI GPT Image 2 through the Codex built-in imagegen tool
+
+Embedded provenance:
+C2PA caBX softwareAgent gpt-image version 2.0 / OpenAI Media Service API
+
+Masters (all 1254 x 1254 PNG, TaskMarket role=final):
+beat 1  de9441cf62717c68c4bb8e1646adece60930e57bc9d537920fb7291c3e5e4ad5
+beat 2  f56869eb98c1fdd17f5c6740d7106113a737905809014e3e0d3b796d122c1ff5
+beat 3  d8358f9155ff6b811c21c7fcfbc8360012ed87d2a3a24f3c595312b2df26106f
+beat 4  ae825577159e7e5b0e22703f435ea6245c7a81ff592e493a08bbe294555dcb35
+beat 5  15e266763a3f24ae3d8982824769a19cd733d4b37c74d7b5355fc8b1670dea81
+
+TaskMarket independently recorded the same five SHA-256 hashes after upload.
