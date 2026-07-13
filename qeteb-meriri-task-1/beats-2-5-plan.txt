@@ -1,0 +1,94 @@
+QETEB MERIRI - BEATS 2-5 PRODUCTION PLAN
+
+CONDITION
+Use this plan only after the registered requester explicitly locks Beat 1.
+Use qeteb-beat-1-master.png as the immutable primary reference. For each later
+beat, also reference the immediately preceding approved frame.
+
+SHARED CONTINUITY PREFIX
+Continue the exact same illustrated shot from the supplied Beat 1 master, not a
+reinterpretation: locked square 1:1 wide view at the same eye-level camera and
+focal length; same vanishing point and distant low mountains; same left ruined
+wall and dark doorway; same massive right arcade and pillars; same blazing high
+noon sun near upper center; same hard diagonal boundary between full sunlight
+and deep right-side shadow. Preserve the identical weathered lean adult witness:
+same narrow bearded face and headcloth with trailing flap, rough ankle-length
+robe with torn hem, dark diagonal sash, belt, sandals, and crooked wooden staff
+in his anatomical right hand (frame-left because he faces three-quarter right).
+Preserve exact scale and starting position left of center. Antique monochrome
+sepia ink engraving on warm parchment, dense crosshatching, stipple, etched
+linework, coarse irregular print grain, paper tooth; brightest cream sun, warm
+ochre midtones, near-black brown shadow. No camera move, crop, zoom, costume
+change, palette change, or architecture drift. Noon and the sun-shadow line
+remain legible in every frame.
+
+BEAT 2 - SHADOW STIRS, CREATURE UNSEEN
+Advance only a few seconds. Keep the witness's feet and grounded staff nearly
+fixed. He turns his eyes and shoulders a few degrees toward the diagonal
+boundary, grip tightening, robe edge lifting slightly: first conscious unease,
+not panic. At the exact sun-shadow boundary beside the right arcade, show only
+a subtle low disturbance: dust curling against its normal fall, loose grit
+shifting, the edge of the shadow seeming to ripple inward. Qeteb remains
+completely unseen: no scale, hair, eye, silhouette, body, limb, or face. Preserve
+negative space and the exact locked geometry.
+
+BEAT 3 - ENTRY ACROSS THE LINE
+Advance one continuous action beat. From deep right arcade shadow, Qeteb rolls
+low into view along and across the precise diagonal noon boundary, roughly one
+third of its mass visible. Required anatomy: a non-humanoid rolling amorphous
+mound made of many irregular overlapping scales interwoven with coarse shaggy
+hair; no head, neck, torso, arms, or legs. Exactly one unblinking eye is embedded
+on the forward body mass over its cardiac center, not on a face: pale sepia iris
+with a dark vertical reptilian slit, no glow and no other eyes. The sun-shadow
+line bisects the tumbling mass so scales catch hard noon highlights while hair
+disappears into black shade. Witness makes one small recoil toward frame-left,
+weight shifting back, staff still in anatomical right hand, dread beginning.
+Same wide camera.
+
+BEAT 4 - FACE-TO-EYE CONFRONTATION
+Advance the same rolling motion without a cut. Qeteb has moved closer along the
+unchanged diagonal boundary and now occupies the right-center foreground, still
+a low amorphous rolling mass of overlapping scales and shaggy hair, never
+upright. Keep exactly one chest-centered unblinking slit eye; rotate the tumbling
+body just enough that this eye fixes directly on the witness. Witness remains
+the star and fully recognizable, now turned toward it, leaning back with bent
+knees, left hand raised defensively, right hand bracing the same crooked staff
+diagonally across his body. Maintain separation between figures, the visible
+noon sun, and enough architecture to prove the camera never moved. Maximum
+dread, no contact yet, no violence.
+
+BEAT 5 - AMBIGUOUS AFTERMATH
+Advance after an unseen instant, same camera and setting. The identical witness
+lies prone but non-graphically on the sunlit stones near his prior position,
+body angled along the diagonal boundary; robe, headcloth, sash, and sandals
+unchanged; crooked staff fallen nearby and clearly the same object. No blood,
+wound, gore, or explicit cause. Qeteb is rolling away into the deep right arcade
+shadow along the same boundary, its rear mass still visible and anatomically
+consistent: overlapping scales plus shaggy hair, no limbs or head; the one chest
+eye is seen only in oblique profile or turning away, with no second eye. Dust
+settles across the line. Noon sun remains harsh and indifferent; what happened
+is unresolved.
+
+SHARED NEGATIVE PROMPT
+No humanoid, bipedal, or standing monster; no head, face, neck, shoulders, arms,
+hands, legs, feet, wings, horns, mouth, teeth, snout, skull, or human anatomy on
+Qeteb. No snake, dragon, wolf, spider, or insect form; no tentacles (hair must
+read as shaggy hair); no multiple eyes, facial eye, floating eye, giant eyeball
+body, or eye anywhere except the single cardiac-center eye. No Qeteb at all in
+Beat 2. No extra people, duplicate witness, altered face, age, or build, changed
+robe, headcloth, sash, or sandals, swapped staff hand, or new weapon. No camera
+change, crop, close-up, Dutch angle, shifted sun, changed doorway, pillars, or
+mountains, night, dusk, fog, soft light, or missing hard boundary. No saturated
+color or glowing red eye; no photorealism, 3D render, anime, smooth digital
+paint, flat vector, or clean gradients. No text, caption, frame, border,
+watermark, or logo. No blood, gore, visible attack, or explicit death.
+
+BEAT 1 CONTINUITY RISKS
+1. The witness already looks up and right. Treat this as scanning the architecture;
+   make Beat 2 awareness legible through grip, shoulders, and directed gaze.
+2. The staff appears frame-left but is in the anatomical right hand. Never mirror him.
+3. Preserve the existing sun and witness shadow even if the shadow reads slightly long.
+4. Right arcade textures are organic. Beat 2 may show only dust, grit, and shadow motion.
+5. Do not drift from the ruined passage toward the gallery winner's open desert.
+6. From Beat 3, keep Qeteb low, rolling, amorphous, single-eyed, and non-humanoid.
+7. Beat 5 must remain ambiguous: witness prone and intact, with no explicit death.
